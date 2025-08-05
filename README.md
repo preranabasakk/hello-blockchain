@@ -26,6 +26,7 @@ A simple blockchain project built with Solidity to demonstrate storing and updat
 ## License
 MIT License      
 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/52a46f8e-aa00-458a-8ab2-106f5d262691" />
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d0d62d6d-ea32-4dec-91d4-914be6a8b3ba" />
+
 
